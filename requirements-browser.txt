@@ -1,0 +1,4 @@
+# Playwright 浏览器测试（可选）
+# pip install -r requirements-browser.txt
+# playwright install chromium
+playwright>=1.40
